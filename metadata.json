@@ -1,0 +1,7 @@
+{
+  "name": "FoodieDash",
+  "description": "A premium Zomato-inspired food delivery web app that sends orders directly to merchants via WhatsApp with GPS tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
